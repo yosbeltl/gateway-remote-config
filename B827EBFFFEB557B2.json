@@ -1,0 +1,22 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827eb0000b557b2",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41,56092020,
+    "ref_longitude": -8,38414410,
+    "ref_altitude": 20,
+    "contact_email": "yosbel.tl@gmail.com",
+    "description": "Raspberry Pi with RHF2S001 868/915 MHz (SX1257)"
+  }
+}
+
+
+"ref_latitude": 41.56092020,
+    "ref_longitude": -8.38414410,
