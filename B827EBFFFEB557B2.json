@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 41,56092020,
-    "ref_longitude": -8,38414410,
+    "ref_latitude": 41.56092020,
+    "ref_longitude": -8.38414410,
     "ref_altitude": 20,
     "contact_email": "yosbel.tl@gmail.com",
     "description": "Raspberry Pi with RHF2S001 868/915 MHz (SX1257)"
